@@ -1,9 +1,9 @@
 # Socket-Connection-With-Graph
 Access the Socket Url to fetch continuous data and show over Graph
 
-unzip the folder and open Terminal to the Folder Address
+unzip the folder and open the project as .xcworkspace
 
-run pod install
+If there is ay problem in podfile then open Terminal to the Folder Address and run pod install
 
 Using SocketIO the connection is established to server that is genereating random number after every 4 Seconds
 
