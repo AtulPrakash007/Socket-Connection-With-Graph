@@ -1,9 +1,9 @@
 # Socket-Connection-With-Graph
 Access the Socket Url to fetch continuous data and show over Graph
 
-unzip the folder and open the project as .xcworkspace
+Two formats of files are uploaded- One with the Zip file and other one as source code. If Source code have missed any file then work with the Zip file.
 
-If there is ay problem in podfile then open Terminal to the Folder Address and run pod install
+run pod install to work properly as the code requires the Swifty-Charts pods updation too.
 
 Using SocketIO the connection is established to server that is genereating random number after every 4 Seconds
 
